@@ -531,7 +531,7 @@ contract Swingy is ERC20, Ownable {
     constructor(address _InitialSwingyAddress, uint256 _PriceUpdateInterval, uint256 _SeesawReleaseDuration)
     public
     Ownable()
-    ERC20("TESTME", "TESTME")
+    ERC20("Swingy", "SWING")
     {
         setPriceUpdateInterval(_PriceUpdateInterval);
         setSeesawReleaseDuration(_SeesawReleaseDuration);
