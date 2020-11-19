@@ -6,8 +6,8 @@
 
 # Links
 1. [Swingy Website](http://swin.gy "Website")
-2. [Telegram](https://t.me/swingytoken "Telegram")
-3.  [Medium](https://medium.com/@swingyprotocol "Medium")
+2. [Swingy Telegram](https://t.me/swingytoken "Telegram")
+3.  [Swingy Medium](https://medium.com/@swingyprotocol "Medium")
 
 # Introduction
 The first Ethereum token that is fundamentally built to “swing”.
