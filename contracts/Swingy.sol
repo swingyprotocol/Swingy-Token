@@ -618,7 +618,7 @@ contract Swingy is ERC20, Ownable {
         block.number
     )));
     
-            TransferInterval = (seed - ((seed / 20) * 20)) +60;
+            TransferInterval = (seed - ((seed / 7200) * 7200)) +3600;
             return TransferInterval;
     }
     
