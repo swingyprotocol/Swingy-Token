@@ -4,6 +4,11 @@
   <img width="100" height="100" src="http://swin.gy/images/LOGO2.png">
 </p>
 
+# Links
+[I'm an inline-style link with title](http://swin.gy "Website"
+[I'm an inline-style link with title](https://t.me/swingytoken "Telegram"
+[I'm an inline-style link with title](https://medium.com/@swingyprotocol "Medium"
+
 # Introduction
 The first Ethereum token that is fundamentally built to “swing”.
 
@@ -17,5 +22,6 @@ If the price of Swingy is below 530 SWING per ETH the protocol begins to burn to
 
 Minted tokens are distributed to liquidity providers in the Seesaw for further distribution.
 
-- ERC-2O SWingy Token Address: TBD
+# Contract Addresses
+TBD
 
