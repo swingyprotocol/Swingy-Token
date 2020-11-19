@@ -4,7 +4,7 @@
   <img width="100" height="100" src="http://swin.gy/images/LOGO2.png">
 </p>
 
-# Links
+# Quick Links
 1. [Swingy Website](http://swin.gy "Website")
 2. [Swingy Telegram](https://t.me/swingytoken "Telegram")
 3.  [Swingy Medium](https://medium.com/@swingyprotocol "Medium")
@@ -25,3 +25,11 @@ Minted tokens are distributed to liquidity providers in the Seesaw for further d
 # Contract Addresses
 TBD
 
+# Website
+http://swin.gy
+
+# Telegram
+https://t.me/swingytoken
+
+# Medium
+https://medium.com/@swingyprotocol
