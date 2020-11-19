@@ -1,4 +1,4 @@
-# Swingy-Token
+# <p align="center">Swingy-Token</p>
 
 <p align="center">
   <img width="100" height="100" src="http://swin.gy/images/LOGO2.png">
