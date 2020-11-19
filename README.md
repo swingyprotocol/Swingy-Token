@@ -1,5 +1,8 @@
 # Swingy-Token
-![alt text](http://www.swin.gy/images/LOGO.png)
+
+<p align="center">
+  <img width="100" height="100" src="http://swin.gy/images/LOGO2.png">
+</p>
 
 The first Ethereum token that is fundamentally built to “swing”.
 
