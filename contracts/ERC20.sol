@@ -1,3 +1,4 @@
+pragma solidity =0.6.6;
 contract ERC20 is Context, IERC20 {
     using SafeMath for uint256;
     using Address for address;
