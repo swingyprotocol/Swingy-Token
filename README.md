@@ -16,7 +16,7 @@ If the price of Swingy surpasses 320 SWING per ETH the protocol begins to mint t
 
 If the price of Swingy is below 530 SWING per ETH the protocol begins to burn tokens. 
 
-Minted tokens are distributed to liquidity providers in the Seesaw for further distribution.
+Minted tokens are distributed to liquidity providers in the Seesaw for further distribution. Developers do not have access to this mint function.
 
 
 **Swingy Site**
