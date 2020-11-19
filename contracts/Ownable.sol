@@ -1,3 +1,4 @@
+pragma solidity =0.6.6;
 contract Ownable is Context {
     address private _owner;
 
