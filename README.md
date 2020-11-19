@@ -22,14 +22,15 @@ If the price of Swingy is below 530 SWING per ETH the protocol begins to burn to
 
 Minted tokens are distributed to liquidity providers in the Seesaw for further distribution.
 
-# Contract Addresses
-TBD
 
-# Website
+##Website
 http://swin.gy
 
-# Telegram
+##Telegram
 https://t.me/swingytoken
 
-# Medium
+##Medium
 https://medium.com/@swingyprotocol
+
+# Contract Addresses
+TBD
