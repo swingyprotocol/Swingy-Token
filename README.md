@@ -4,6 +4,7 @@
   <img width="100" height="100" src="http://swin.gy/images/LOGO2.png">
 </p>
 
+# Introduction
 The first Ethereum token that is fundamentally built to “swing”.
 
 Tokens are either minted or burned block by block in accordance to the target price of the token. The higher the price the higher the mint (cap of 10% per sell tx) the lower the price the higher the burn:
