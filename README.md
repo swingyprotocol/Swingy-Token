@@ -5,7 +5,7 @@
 </p>
 
 # Links
-1. [Website](http://swin.gy "Website")
+1. [Swingy Website](http://swin.gy "Website")
 2. [Telegram](https://t.me/swingytoken "Telegram")
 3.  [Medium](https://medium.com/@swingyprotocol "Medium")
 
