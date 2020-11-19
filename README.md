@@ -20,12 +20,15 @@ Minted tokens are distributed to liquidity providers in the Seesaw for further d
 
 
 **Website
+
 http://swin.gy
 
 **Telegram
+
 https://t.me/swingytoken
 
 **Medium
+
 https://medium.com/@swingyprotocol
 
 # Contract Addresses
