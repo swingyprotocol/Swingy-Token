@@ -466,7 +466,7 @@ contract SwingySeesaw {
    function SwingyRewardsTransfer(uint256 amount, uint256 durationSec) external {}
  
     }
-contract TEST is ERC20, Ownable {
+contract Swingy is ERC20, Ownable {
     using SafeMath for uint256;
    
     uint256 private constant abcdefg01000110 = 15;
